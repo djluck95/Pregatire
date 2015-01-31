@@ -1,0 +1,4 @@
+apple,en,mar,ro
+salt,en,sare,ro
+see,en,vu,fr
+apa,ro,water,en
